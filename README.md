@@ -1,4 +1,4 @@
-# Bell Hospital Management System
+# Appointment Management System
 
 ## Overview
 The Bell Hospital Management System is a Java-based application designed to digitize and automate hospital operations. This system replaces the manual record-keeping process by efficiently managing patient, doctor, lab test, and appointment records. Built using object-oriented programming principles, it ensures scalability and ease of use for healthcare institutions.
